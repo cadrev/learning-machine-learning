@@ -7,7 +7,7 @@
 
 # theta0 and theta1 are usually randomized.
 # For this application, we set theta0 and
-# theta2 manually in order to answer the
+# theta1 manually in order to answer the
 # question for the Week1 of the Machine
 # learning class.
 def cost_function(x,y,theta0,theta1): 
