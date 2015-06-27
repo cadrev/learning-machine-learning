@@ -7,7 +7,7 @@ def grad_desc(x,y, alpha, err, max_iter):
     iteration   = 0
     convergence = False
 
-	# Sets the initial theta for model
+    # Sets the initial theta for model
     theta0     = np.random.random()
     theta1     = np.random.random()
 
