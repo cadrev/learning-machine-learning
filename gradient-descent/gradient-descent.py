@@ -49,7 +49,7 @@ def main():
     
     # criteria for the gradient descent
     learning_rate        = 0.1
-    convergence_criteria = 0.01 # convergence criteria
+    convergence_criteria = 0.01 
     
     # get the slope
     slope, intercept, iterations = grad_desc(x, y, learning_rate, convergence_criteria, 1000)
