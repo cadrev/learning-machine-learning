@@ -41,7 +41,7 @@ def grad_desc(x,y, alpha, err, max_iter):
     #return the slope(theta0), intercept(theta1) and number of iterations
     return theta0, theta1, iteration
 
-# Check the performance the gradient descent function
+# Check the performance of the gradient descent function
 def main():
   
     # load the dataset to the two variables
